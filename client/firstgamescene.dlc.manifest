@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 474210452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a47bc539f2af1cbfdfdc02c30360673a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72e8c4c1d3942655eace76804e4575ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 414718412a7745c44b98e8dd47025ca5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/GameScene.unity
+Dependencies:
+- C:/Users/Ptech/Unity/Projects/MainHubDemo/MainHubDemo/Assets/AssetBundles/firstgame.dlc

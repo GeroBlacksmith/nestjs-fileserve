@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2347131859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25262addb2f9e61b0bf0433ccc525cd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2fe4deb6eda64940aa9cba453afd78cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 414718412a7745c44b98e8dd47025ca5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/block_white_.png
+- Assets/Prefabs/Player.prefab
+Dependencies: []

@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2344712111
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: firstgame.dlc
+      Dependencies: {}
+    Info_1:
+      Name: firstgamescene.dlc
+      Dependencies:
+        Dependency_0: firstgame.dlc
